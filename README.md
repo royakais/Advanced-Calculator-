@@ -28,6 +28,8 @@ Designed to perform both standard and advanced mathematical operations with an i
 ## 📂 Project Structure
 
 <img width="444" height="598" alt="image" src="https://github.com/user-attachments/assets/95557401-cdca-476e-bfb2-4a80ea578cf9" />
+<img width="488" height="395" alt="image" src="https://github.com/user-attachments/assets/403cf19f-a33e-41fe-a30a-81ec6c5146ec" />
+
 
 ---
 
@@ -41,3 +43,6 @@ You need **Java 17+** and **JavaFX SDK** installed.
 
 ```bash
 java --module-path "PATH_TO_FX_LIB" --add-modules javafx.controls,javafx.fxml -jar target/Advanced-Calculator-1.0-SNAPSHOT.jar
+
+
+
